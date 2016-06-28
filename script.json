@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Sydney, an aspiring content strategist from Colorado.\n![esther](https://raw.githubusercontent.com/mountainsyd/SydBot/script.json/_DSC1389.jpg)\nWant to know more Sydney? %[Learn about Sydney](postback:learn_about_sydney) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Sydney, an aspiring content strategist from Colorado.\n![sydney](https://raw.githubusercontent.com/mountainsyd/SydBot/script.json/_DSC1389.jpg)\nWant to know more Sydney? %[Learn about Sydney](postback:learn_about_sydney) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set SydBot up! Do you want to tell Sydney that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Sydney so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Sydney](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
